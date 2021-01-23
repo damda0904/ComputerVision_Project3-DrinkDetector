@@ -1,0 +1,20 @@
+item {
+    name: "Demisoda",
+    id: 1,
+    display_name: "Demisoda"
+}
+item {
+    name: "Tejava",
+    id: 2,
+    display_name: "Tejava"
+}
+item {
+    name: "cider",
+    id: 3,
+    display_name: "cider"
+}
+item {
+    name: "coke",
+    id: 4,
+    display_name: "coke"
+}
